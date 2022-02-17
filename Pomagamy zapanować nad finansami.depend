@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1303063612 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1303063612 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1645136095 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\main.cpp
+	<iostream>
+	"FinancesBook.h"
+
+1638823587 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\adresat.cpp
+	"Adresat.h"
+
+1638823587 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\adresat.h
+	<iostream>
+
+1641135879 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\adresatmenadzer.cpp
+	"AdresatMenadzer.h"
+
+1641135879 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\adresatmenadzer.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<sstream>
+	"Adresat.h"
+	"PlikZAdresatami.h"
+	"MetodyPomocnicze.h"
+
+1641135879 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\plikzadresatami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"PlikTekstowy.h"
+	"Adresat.h"
+	"MetodyPomocnicze.h"
+
+1641135879 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\pliktekstowy.h
+	<iostream>
+	<fstream>
+
+1638823587 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1637317802 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\ksiazka adresowa.cpp
+
+1641135879 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1641135879 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikMenadzer.h"
+	"AdresatMenadzer.h"
+
+1641312733 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\uzytkownikmenadzer.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<string>
+	"MetodyPomocnicze.h"
+	"Uzytkownik.h"
+	"PlikZuzytkownikami.h"
+
+1638823587 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\uzytkownik.h
+	<iostream>
+
+1641135879 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\plikzuzytkownikami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"PlikTekstowy.h"
+	"Uzytkownik.h"
+	"MetodyPomocnicze.h"
+
+1641135879 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1641135879 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\pliktekstowy.cpp
+	"PlikTekstowy.h"
+
+1641135879 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\plikzadresatami.cpp
+	"PlikZAdresatami.h"
+
+1641135879 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\plikzuzytkownikami.cpp
+	"PlikZuzytkownikami.h"
+
+1637317802 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1638976805 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\uzytkownikmenadzer.cpp
+	"UzytkownikMenadzer.h"
+
+1645026059 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\auxiliarymethod.cpp
+	"AuxiliaryMethod.h"
+
+1645026074 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\auxiliarymethod.h
+	<iostream>
+	<sstream>
+	<algorithm>
+	<windows.h>
+	<winbase.h>
+
+1642788174 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\filetext.cpp
+	"FileText.h"
+
+1642789667 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\filetext.h
+	<iostream>
+	<fstream>
+
+1644178468 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\finances.cpp
+	"Finances.h"
+
+1644171855 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\finances.h
+	<iostream>
+
+1645026059 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\filewithrevenue.cpp
+	"FileWithRevenue.h"
+	"Markup.h"
+
+1644435218 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\filewithrevenue.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"FileText.h"
+	"Income.h"
+	"AuxiliaryMethod.h"
+
+1644272337 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\filewithusers.cpp
+	"FileWithUsers.h"
+	"Markup.h"
+
+1643567131 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"FileText.h"
+	"User.h"
+	"AuxiliaryMethod.h"
+
+1643566192 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\user.h
+	<iostream>
+
+1643566192 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\user.cpp
+	"User.h"
+
+1645133270 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\financesbook.h
+	<iostream>
+	"UserManager.h"
+	"FinancesManager.h"
+
+1643048806 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\usermanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<string>
+	"AuxiliaryMethod.h"
+	"User.h"
+	"FileWithUsers.h"
+
+1645135721 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\financesmanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<sstream>
+	<algorithm>
+	<ostream>
+	"Income.h"
+	"Expense.h"
+	"FileWithRevenue.h"
+	"FileWithExpenses.h"
+	"AuxiliaryMethod.h"
+
+1645133270 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\financesbook.cpp
+	"FinancesBook.h"
+
+1645136824 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\financesmanager.cpp
+	"FinancesManager.h"
+
+1643566638 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\usermanager.cpp
+	"UserManager.h"
+
+1644179131 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\incomes.cpp
+	"Incomes.h"
+
+1644179131 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\incomes.h
+	<iostream>
+
+1644957261 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\income.h
+	<iostream>
+
+1644957157 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\income.cpp
+	"Income.h"
+
+1644958406 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\expense.cpp
+	"Expense.h"
+
+1644958406 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\expense.h
+	<iostream>
+
+1645026224 source:c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\filewithexpenses.cpp
+	"FileWithExpenses.h"
+	"Markup.h"
+
+1644962263 c:\users\dejw\desktop\programyc++\pomagamy zapanowaæ nad finansami\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<string>
+	"FileText.h"
+	"Expense.h"
+	"AuxiliaryMethod.h"
+
